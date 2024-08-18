@@ -1,6 +1,6 @@
 # Taş, Kağıt, Makas Oyunu
 
-Bu proje, klasik Taş, Kağıt, Makas oyununu Python'da basit bir şekilde gerçekleştiren bir script içerir. Oyun, kullanıcı ile bilgisayar arasında iki tura kadar oynanır. Kazanan iki turu ilk kazanan olur.
+Bu proje, klasik Taş, Kağıt, Makas oyununu Python'da basit bir şekilde gerçekleştiren bir script içerir. Oyun, kullanıcı ile bilgisayar arasında oynanır. İki turu ilk kazanan oyuncu oyunun galibi olur.
 
 ## Özellikler
 
